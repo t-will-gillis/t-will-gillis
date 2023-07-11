@@ -17,10 +17,10 @@
 
 <h2 align=center>My Tech Stack- In Progress!</h2>
 
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-![Flask Badge](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff&style=flat)
-
-
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Flask Badge](https://img.shields.io/badge/Flask-333?logo=flask&logoColor=fff&style=for-the-badge)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
+![Python Logo](https://www.python.org/static/community_logos/python-logo-generic.svg)
 
 
 <!--
