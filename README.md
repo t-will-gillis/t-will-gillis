@@ -20,8 +20,8 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Flask Badge](https://img.shields.io/badge/Flask-333?logo=flask&logoColor=fff&style=for-the-badge)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
-![Python Logo](https://www.python.org/static/community_logos/python-logo-generic.svg)
-
+![python](./images/python_logo_s.png)
+![flask](./images/flask-horiz_s.png)
 
 <!--
 **t-will-gillis/t-will-gillis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
