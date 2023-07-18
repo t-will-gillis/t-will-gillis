@@ -12,7 +12,7 @@
   <div align="right"><img src="https://komarev.com/ghpvc/?username=t-will-gillis&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views for Will Gillis" /></div>
 </div>
 
-
+ 
 <hr>
 
 <h2 align=center>My Tech Stack- In Progress!</h2>
@@ -37,6 +37,10 @@
 
 ![python](./images/python_logo_s.png)
 ![flask](./images/flask-horiz_s.png)
+
+![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=t-will-gillis&show_icons=true&theme=github_dark)
+![Will's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=t-will-gillis&layout=compact&hide_progress=true&langs_count=8&theme=github_dark)
+ 
 
 <!--
 **t-will-gillis/t-will-gillis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
