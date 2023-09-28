@@ -35,8 +35,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![python](./images/python_logo_s.png)
-![flask](./images/flask-horiz_s.png)
+
 
 ![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=t-will-gillis&show_icons=true&theme=github_dark)
 ![Will's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=t-will-gillis&layout=compact&hide_progress=true&langs_count=8&theme=github_dark)
