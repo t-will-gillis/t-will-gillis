@@ -1,6 +1,6 @@
 <h1 align="center">Hello world, I'm Will</h1>
 
-<p>I am a software developer with interests in back end development, cloud optimization, data analytics, and machine-learning. My current activities include studying for the AWS Solutions Architect Associate Certificate, becoming adept in Django, and contributing to Hack for LA. </p>
+<p>I am a software developer with interests in python, back end development, cloud optimization, data analytics, and machine-learning. My current activities include studying for the AWS Solutions Architect Associate Certificate, becoming adept in Django, and contributing to Hack for LA. </p>
 
 
 
