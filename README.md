@@ -39,7 +39,13 @@
 
 ![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=t-will-gillis&show_icons=true&theme=github_dark)
 ![Will's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=t-will-gillis&layout=compact&hide_progress=true&langs_count=8&theme=github_dark)
- 
+
+
+<!--
+streak stats (inactive)
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=t-will-gillis&theme=vue-dark" alt="barbaralaw" /></p>
+-->
+
 
 <!--
 **t-will-gillis/t-will-gillis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
