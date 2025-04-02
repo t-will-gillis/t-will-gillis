@@ -1,6 +1,6 @@
 <h1 align="center">Hello world, I'm Will</h1>
 
-<p>I am a software engineer with interests in Python development, information technology, cybersecurity, and cloud optimization. My current activities include coursework for Cybersecurity Analyst and Linux Adminstration, becoming adept in Django, and contributing to Hack for LA.</p>
+<p>I am an engineer with interests in cybersecurity, automations, Python development, information technology, and cloud optimization. My current activities include coursework for Windows Server, studying for ISC2 CC and later CISSP, and contributing to Hack for LA.</p>
 
 
 
@@ -28,8 +28,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
