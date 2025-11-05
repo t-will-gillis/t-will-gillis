@@ -1,6 +1,6 @@
 <h1 align="center">Hello world, I'm Will</h1>
 
-<p>I am an engineer with interests in DevOps automations, cybersecurity, Python development, information technology, and cloud optimization. My current activities include coursework for AWS, studying for ISC2 CC and later CISSP, and contributing to Hack for LA.</p>
+<p>I am an engineer with interests in DevSecOps automations, cybersecurity, Python development, information technology, and cloud optimization. My current activities include coursework for AWS, studying for ISC2 CC and later CISSP, and contributing to Hack for LA.</p>
 
 
 
