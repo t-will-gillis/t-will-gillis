@@ -42,12 +42,11 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+
 
 ![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=t-will-gillis&show_icons=true&theme=github_dark)
 ![Will's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=t-will-gillis&layout=compact&hide_progress=true&langs_count=8&theme=github_dark)
+
 
 
 <!--
